@@ -16,7 +16,7 @@ $ git clone https://github.com/gilsondev/buscaimoveis-scraper.git
 $ cd buscaimoveis-scraper
 $ python3 -m venv .venv
 ```
-
+*Obs: Procurar dentro do .venv onde se encontra o activate para executar o comando abaixo*
 ```shell
 $ source .venv/bin/activate
 $ pip install -r requirements.txt
